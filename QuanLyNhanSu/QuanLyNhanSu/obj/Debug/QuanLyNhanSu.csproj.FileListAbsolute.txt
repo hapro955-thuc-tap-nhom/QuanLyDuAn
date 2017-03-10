@@ -1,1 +1,2 @@
 c:\users\administrator\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\Administrator\Documents\GitHub\QuanLyDuAn\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
